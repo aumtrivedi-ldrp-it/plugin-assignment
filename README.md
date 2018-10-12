@@ -1,6 +1,6 @@
 # rtcamp-plugin
 
-Author: [Aum Trivedi-LDRP-ITR]
+Author: [Aum Trivedi]
 
 Demo link: https://aum-rtcamp.000webhostapp.com
 
