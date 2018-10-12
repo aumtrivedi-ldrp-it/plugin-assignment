@@ -2,14 +2,9 @@
 
 Author: [Aum Trivedi-LDRP-ITR]
 
-Enrollmen No: 21619SBEIT30066
-
 Demo link: https://aum-rtcamp.000webhostapp.com
 
- 
 Tags: contributor
-
-Requires at least: 4.6
 
 Tested up to: 4.8.1
 
@@ -55,7 +50,5 @@ https://aum-rtcamp.000webhostapp.com/2018/09/this-post-from-admin
 
 ## Sources 
 
-- WordPress Codex
-- The Almighty Google
 - StackOverflow
 # plugin-assignment
